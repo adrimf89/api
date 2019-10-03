@@ -8,7 +8,146 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "statistics": [
+    {
+        "id": 201908, 
+        "totalBalance": 18563.35,
+        "monthBalance": 30.58,
+        "icomes": 1869.37,
+        "expenses": 1838.87,
+        "savings": 20430.35,
+        "creditCard": 165.14,
+        "categoryExpenses": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Savings",
+                    "icon": "money bill alternate outline"
+                },
+                "amount": 500
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Home",
+                    "icon": "home"
+                },
+                "amount": 325.65
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Transport",
+                    "icon": "car"
+                },
+                "amount": 187.50
+            }
+        ]
+    },
+    {
+        "id": 201909, 
+        "totalBalance": 19563.35,
+        "monthBalance": 40.58,
+        "icomes": 1869.37,
+        "expenses": 1769.71,
+        "savings": 25430.35,
+        "creditCard": 165.14,
+        "categoryExpenses": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Savings",
+                    "icon": "money bill alternate outline"
+                },
+                "amount": 500
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Home",
+                    "icon": "home"
+                },
+                "amount": 225.65
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Transport",
+                    "icon": "car"
+                },
+                "amount": 157.50
+            }
+        ]
+    },
+    {
+        "id": 201910, 
+        "totalBalance": 20563.35,
+        "monthBalance": 30.58,
+        "icomes": 1869.37,
+        "expenses": 1838.87,
+        "savings": 21430.35,
+        "creditCard": 165.14,
+        "categoryExpenses": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Savings",
+                    "icon": "money bill alternate outline"
+                },
+                "amount": 500
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Home",
+                    "icon": "home"
+                },
+                "amount": 325.65
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Transport",
+                    "icon": "car"
+                },
+                "amount": 187.50
+            }
+        ]
+    },
+    {
+        "id": 201911, 
+        "totalBalance": 22563.35,
+        "monthBalance": 100.58,
+        "icomes": 1869.37,
+        "expenses": 1538.87,
+        "savings": 22430.35,
+        "creditCard": 165.14,
+        "categoryExpenses": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Savings",
+                    "icon": "money bill alternate outline"
+                },
+                "amount": 500
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Home",
+                    "icon": "home"
+                },
+                "amount": 35.65
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Transport",
+                    "icon": "car"
+                },
+                "amount": 127.50
+            }
+        ]
+    }
+  ]
 }
